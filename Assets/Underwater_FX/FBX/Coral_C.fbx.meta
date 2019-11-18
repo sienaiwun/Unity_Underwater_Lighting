@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 2acd73cf3f0f297458bf6245567fa044
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Weed_Bed_01
+    100004: Weed_Bed_02
+    100006: Weed_Bed_03
+    100008: Weed_Bed_04
+    100010: Weed_Bed_05
+    100012: Weed_Bed_06
+    400000: //RootNode
+    400002: Weed_Bed_01
+    400004: Weed_Bed_02
+    400006: Weed_Bed_03
+    400008: Weed_Bed_04
+    400010: Weed_Bed_05
+    400012: Weed_Bed_06
+    2300000: Weed_Bed_01
+    2300002: Weed_Bed_02
+    2300004: Weed_Bed_03
+    2300006: Weed_Bed_04
+    2300008: Weed_Bed_05
+    2300010: Weed_Bed_06
+    2300012: //RootNode
+    3300000: Weed_Bed_01
+    3300002: Weed_Bed_02
+    3300004: Weed_Bed_03
+    3300006: Weed_Bed_04
+    3300008: Weed_Bed_05
+    3300010: Weed_Bed_06
+    3300012: //RootNode
+    4300000: Weed_Bed_01
+    4300002: Weed_Bed_02
+    4300004: Weed_Bed_03
+    4300006: Weed_Bed_04
+    4300008: Weed_Bed_05
+    4300010: Weed_Bed_06
+    4300012: Coral_C
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

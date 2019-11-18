@@ -1,0 +1,10 @@
+diff a/Packages/src/com.unity.render-pipelines.lightweight@5.7.2/ShaderLibrary/Input.hlsl b/Packages/src/com.unity.render-pipelines.lightweight@5.7.2/ShaderLibrary/Input.hlsl	(rejected hunks)
+@@ -54,7 +54,7 @@
+ half4 _AdditionalLightsAttenuation[MAX_VISIBLE_LIGHTS];
+ half4 _AdditionalLightsSpotDir[MAX_VISIBLE_LIGHTS];
+ CBUFFER_END
+-
++TEXTURE2D(_LightTexture0);     SAMPLER(sampler_LightTexture0);
+ #define UNITY_MATRIX_M     unity_ObjectToWorld
+ #define UNITY_MATRIX_I_M   unity_WorldToObject
+ #define UNITY_MATRIX_V     unity_MatrixV
