@@ -4,3 +4,7 @@
 
 This demo is using forward rendering to render a underwater scene. This is partially derived from [Beneath the Sea](https://www.shadertoy.com/view/4ljXWh).
 ![underwatereffedt](https://github.com/sienaiwun/Unity_Underwaterfx/blob/master/imgs/underwaterFX.gif)
+
+Usage:
+
+SampleScene->Post-process Volume->Add effect("custom/underwaterEffects")
