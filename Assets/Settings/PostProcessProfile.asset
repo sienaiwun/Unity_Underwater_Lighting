@@ -150,7 +150,7 @@ MonoBehaviour:
   - {fileID: 114375464177707528}
   - {fileID: 114252324386167986}
   - {fileID: 114519825960210478}
-  - {fileID: 7971529950188110680}
+  - {fileID: 4276632563789020398}
 --- !u!114 &114252324386167986
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1597,6 +1597,31 @@ MonoBehaviour:
   sampleScale:
     overrideState: 0
     value: 1
+--- !u!114 &4276632563789020398
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: UnderwaterSettings
+  m_EditorClassIdentifier: Unity.Postprocessing.Runtime:UnityEngine.Rendering.PostProcessing:UnderwaterSettings
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  CausticColor:
+    overrideState: 0
+    value: {r: 0, g: 1, b: 0, a: 1}
+  CausticTiling:
+    overrideState: 0
+    value: 3
+  HolylightColor:
+    overrideState: 0
+    value: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &5203506458179961605
 MonoBehaviour:
   m_ObjectHideFlags: 3
