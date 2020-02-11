@@ -4,7 +4,6 @@
 
 This demo is using forward rendering to render a underwater scene. 
 ![underwatereffedt](https://github.com/sienaiwun/Unity_Underwater_Lighting/blob/master/imgs/underwaterFX.gif?raw=true)
-This is partially derived from [Beneath the Sea](https://www.shadertoy.com/view/4ljXWh).
 
 Usage:
 
